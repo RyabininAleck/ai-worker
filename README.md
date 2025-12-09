@@ -115,6 +115,7 @@ Use jira mcp $JIRA_TASK_ID
 Use jira mcp $JIRA_TASK_ID
 Создай ветку:
 git checkout -b [feature/bug/refactor]/$JIRA_TASK_ID-[описание 2-3 слова]
+Дай сообщение коммита. Коммит и пуш я сделаю самостоятельно
 
 Use gitlab mcp
 Создай мерж реквест из новой ветки в main.
